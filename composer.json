@@ -1,11 +1,10 @@
 {
     "name": "mustafadex/php-fireblocks",
     "description": "Fireblocks API PHP Library",
-    "keywords": ["template", "composer", "package"],
+    "keywords": ["fireblocks"],
     "type": "library",
     "homepage": "https://github.com/mustafadex/php-fireblocks",
     "license": "MIT",
-    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Mustafadex\\PhpFireblocks\\": "src/"
