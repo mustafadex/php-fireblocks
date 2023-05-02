@@ -1,0 +1,24 @@
+{
+    "name": "mustafadex/php-fireblocks",
+    "description": "Fireblocks API PHP Library",
+    "keywords": ["template", "composer", "package"],
+    "type": "library",
+    "homepage": "https://github.com/mustafadex/php-fireblocks",
+    "license": "MIT",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Mustafadex\\PhpFireblocks\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mustafa Serdar Karaduman",
+            "email": "mustafadex@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9 <=8.2",
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
